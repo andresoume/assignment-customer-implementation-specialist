@@ -3,9 +3,9 @@
 ## Intro
 
 Hello there! First of all, congratulations - if you're asked to complete this assessment,
-it means we believe you're a promising candidate for the _Customer Implementation Skills_. However, the technical
-skills you'll need in your role are hard to judge by talking, so we would like to ask you to complete this small
-programming challenge.
+it means we believe you're a promising candidate for the _Customer Implementation Specialist_ role at Source. However,
+the technical skills you'll need in your role are hard to judge by talking, so we would like to ask you to complete
+this small programming challenge.
 
 ## General instructions
 
